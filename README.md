@@ -22,7 +22,7 @@ This project aims to help students and enthusiasts understand cryptographic algo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/JamshedMemon/aes-encryption-simulator/tree/main
+git clone https://github.com/JamshedMemon/aes-encryption-simulator
 ```
 
 2. Navigate to project directory
